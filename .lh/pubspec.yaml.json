@@ -1,0 +1,26 @@
+{
+    "sourceFile": "pubspec.yaml",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 2,
+            "patches": [
+                {
+                    "date": 1720997019564,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1720997027519,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -3,9 +3,9 @@\n version: 3.0.0-alpha.6\n homepage: https://github.com/Sub6Resources/flutter_html\n \n environment:\n-  sdk: '>=3 <3.0.0'\n+  sdk: '>=3 <4'\n   flutter: '>=2.2.0'\n \n dependencies:\n   # Plugin for parsing html\n"
+                },
+                {
+                    "date": 1720997039791,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -3,9 +3,9 @@\n version: 3.0.0-alpha.6\n homepage: https://github.com/Sub6Resources/flutter_html\n \n environment:\n-  sdk: '>=3 <4'\n+  sdk: '>=3.0.0 <4'\n   flutter: '>=2.2.0'\n \n dependencies:\n   # Plugin for parsing html\n"
+                }
+            ],
+            "date": 1720997019564,
+            "name": "Commit-0",
+            "content": "name: flutter_html\ndescription: A Flutter widget rendering static HTML and CSS as Flutter widgets.\nversion: 3.0.0-alpha.6\nhomepage: https://github.com/Sub6Resources/flutter_html\n\nenvironment:\n  sdk: '>=3 <3.0.0'\n  flutter: '>=2.2.0'\n\ndependencies:\n  # Plugin for parsing html\n  html: '>=0.15.0 <1.0.0'\n\n  # Plugin for parsing css\n  csslib: '>=0.17.0 <1.0.0'\n\n  # Plugin for firstWhereOrNull extension on lists\n  collection: '>=1.15.0 <2.0.0'\n\n  # plugin to convert integers to numerals\n  numerus: '>=2.0.0 <3.0.0'\n\n  flutter:\n    sdk: flutter\n\ndev_dependencies:\n  flutter_test:\n    sdk: flutter\n  flutter_lints: ^2.0.1\n  meta: ^1.8.0\n\nflutter:\n"
+        }
+    ]
+}

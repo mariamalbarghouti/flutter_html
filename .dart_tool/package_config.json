@@ -179,10 +179,10 @@
       "name": "flutter_html",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "3.0"
     }
   ],
-  "generated": "2024-07-14T22:37:28.527913Z",
+  "generated": "2024-07-14T22:44:15.763855Z",
   "generator": "pub",
   "generatorVersion": "3.4.1",
   "flutterRoot": "file:///C:/flutter",
